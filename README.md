@@ -1,24 +1,14 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sanika%20Kadam&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%E2%80%A2%20Analytics%20%E2%80%A2%20AI%20%26%20Automation&descSize=18&descAlignY=60" alt="Sanika Kadam banner" />
-</p>
-
-<!-- Animated tagline -->
-<p align="center">
-  <a href="https://github.com/Sanika881">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Turning+raw+data+into+decisions;Building+dashboards+that+tell+a+story;Exploring+ML%2C+GenAI+%26+workflow+automation;Always+learning%2C+always+shipping" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">Hi, I'm Sanika Kadam 👋</h1>
+<p align="center"><b>Data Analytics • Data Science • AI &amp; Automation</b></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanika-kadam007/"><img src="https://img.shields.io/badge/LinkedIn-Sanika%20Kadam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Sanika881"><img src="https://img.shields.io/badge/GitHub-Sanika881-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Sanika881&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
-## 👋 Hey, I'm Sanika
+## 👩‍💻 About Me
 
 I like working with data, from the messy first look at a dataset to the moment a dashboard makes a stakeholder say *"oh, that's what's going on."*
 
@@ -27,7 +17,7 @@ I'm a **BCA graduate** working at the intersection of **data analytics, design, 
 ```python
 class Sanika:
     role      = "Creative Data Strategist @ VEdA EdTech"
-    location  = "Pune, Maharashtra 🇮🇳"
+    location  = "Mumbai, Maharashtra 🇮🇳"
     focus     = ["Data Analytics", "Data Science", "AI & Automation"]
     currently = ["Building Power BI dashboards", "Learning n8n workflows", "Exploring GenAI & RAG"]
     fun_fact  = "Equally happy in Figma and in a Jupyter notebook"
@@ -94,12 +84,13 @@ class Sanika:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanika881&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanika881&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/Sanika881?label=Followers&style=for-the-badge&logo=github&color=0e75b6" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Sanika881?affiliations=OWNER&label=Stars%20Earned&style=for-the-badge&logo=github&color=0e75b6" alt="Stars earned" />
+  <img src="https://img.shields.io/badge/Public%20Repos-6-0e75b6?style=for-the-badge&logo=github" alt="Public repos" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sanika881&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanika881&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub stats" />
 </p>
 
 ---
@@ -117,9 +108,5 @@ class Sanika:
 I'm always happy to chat about data, dashboards, AI, or collaboration ideas. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/sanika-kadam007/).
 
 <p align="center">
-  <i>"In God we trust. All others must bring data."</i> – W. Edwards Deming
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="footer" />
+  <i>"The goal is to turn data into information, and information into insight."</i> – Carly Fiorina
 </p>
