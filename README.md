@@ -77,29 +77,3 @@ I enjoy working across **data analysis, visualization, machine learning, and aut
 | [Fraud Detection Dataset Analysis](https://github.com/Sanika881/Data-analysis-Fraud-detection-dataset-) | Exploratory data analysis of a financial fraud dataset using Python and data visualization. |
 | [Data Science & Machine Learning](https://github.com/Sanika881/Data-Science-and-Machine-Learning) | Collection of data science and machine-learning work using Python and related libraries. |
 
----
-
-## 🎯 Current Focus
-
-```text
-📊 Advanced Data Analytics
-🤖 AI & Generative AI
-⚙️ Workflow Automation
-🧠 Machine Learning
-📈 Business Intelligence
-☁️ Cloud & Data Technologies
-
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sanika881&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanika881&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Sanika881&theme=tokyonight&hide_border=true" /> </p>
-🐍 Contribution Activity
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/> </p>
-💡 A Little More About Me
-
-Learn → Build → Analyze → Automate → Improve
-
-I’m interested in projects where technology solves an actual problem rather than simply demonstrating a technology.
-
-Currently building my skills at the intersection of Data + AI + Automation.
-
-<p align="center"> <b>Thanks for visiting my profile!</b> <br/> <sub>Always learning. Always building.</sub> </p> ```
